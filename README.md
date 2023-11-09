@@ -1,4 +1,4 @@
-# ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
+# ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop 
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
@@ -38,7 +38,9 @@ For a detailed introduction, full list of features and architecture overview ple
 
 ## Table of contents
 
-- [Setup](#setup)
+- [ OWASP Juice Shop](#-owasp-juice-shop)
+  - [Table of contents](#table-of-contents)
+  - [Setup](#setup)
     - [From Sources](#from-sources)
     - [Packaged Distributions](#packaged-distributions)
     - [Docker Container](#docker-container)
@@ -48,17 +50,17 @@ For a detailed introduction, full list of features and architecture overview ple
     - [Google Compute Engine Instance](#google-compute-engine-instance)
     - [Heroku](#heroku)
     - [Gitpod](#gitpod)
-- [Demo](#demo)
-- [Documentation](#documentation)
+  - [Demo](#demo)
+  - [Documentation](#documentation)
     - [Node.js version compatibility](#nodejs-version-compatibility)
     - [Troubleshooting](#troubleshooting)
     - [Official companion guide](#official-companion-guide)
-- [Contributing](#contributing)
-- [References](#references)
-- [Merchandise](#merchandise)
-- [Donations](#donations)
-- [Contributors](#contributors)
-- [Licensing](#licensing)
+  - [Contributing](#contributing)
+  - [References](#references)
+  - [Merchandise](#merchandise)
+  - [Donations](#donations)
+  - [Contributors](#contributors)
+  - [Licensing](#licensing)
 
 ## Setup
 
